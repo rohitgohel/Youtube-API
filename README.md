@@ -1,8 +1,4 @@
-Will use unsplash API to get Images
-
-URL : https://unsplash.com/developers
-
-Second Project:
+how to get API from google link in given below
 
 https://console.developers.google.com
 
